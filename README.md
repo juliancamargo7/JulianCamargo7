@@ -1,4 +1,10 @@
-### Hi there 👋
+# *Julian Camargo*
+
+Estudiante ING ciencia de datos
+
+Universidad de la Sabana
+
+
 
 <!--
 **juliancamargo7/JulianCamargo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
